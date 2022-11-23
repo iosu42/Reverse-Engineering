@@ -1,3 +1,5 @@
+lesson 7
+
 <a rel="me" href="https://defcon.social/@kevinthomas"></a>
 <a rel="me" href="https://ioc.exchange/@kevinthomas"></a>
 <a rel="me" href="https://infosec.exchange/@kevinthomas"></a>
